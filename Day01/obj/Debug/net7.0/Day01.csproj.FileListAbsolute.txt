@@ -1,0 +1,14 @@
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\bin\Debug\net7.0\Day01.exe
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\bin\Debug\net7.0\Day01.deps.json
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\bin\Debug\net7.0\Day01.runtimeconfig.json
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\bin\Debug\net7.0\Day01.dll
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\bin\Debug\net7.0\Day01.pdb
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\Day01.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\Day01.AssemblyInfoInputs.cache
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\Day01.AssemblyInfo.cs
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\Day01.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\Day01.dll
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\refint\Day01.dll
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\Day01.pdb
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\Day01.genruntimeconfig.cache
+C:\BOOTCAMP\Batch28\coding\Batch28Solution\Day01\obj\Debug\net7.0\ref\Day01.dll

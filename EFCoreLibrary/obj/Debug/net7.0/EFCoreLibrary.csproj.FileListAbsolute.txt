@@ -1,0 +1,14 @@
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\bin\Debug\net7.0\EFCoreLibrary.deps.json
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\bin\Debug\net7.0\EFCoreLibrary.runtimeconfig.json
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\bin\Debug\net7.0\EFCoreLibrary.dll
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\bin\Debug\net7.0\EFCoreLibrary.pdb
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\EFCoreLibrary.csproj.AssemblyReference.cache
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\EFCoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\EFCoreLibrary.AssemblyInfoInputs.cache
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\EFCoreLibrary.AssemblyInfo.cs
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\EFCoreLibrary.csproj.CoreCompileInputs.cache
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\EFCoreLibrary.dll
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\refint\EFCoreLibrary.dll
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\EFCoreLibrary.pdb
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\EFCoreLibrary.genruntimeconfig.cache
+C:\bootcamp\Batch28\coding\Batch28Solution\EFCoreLibrary\obj\Debug\net7.0\ref\EFCoreLibrary.dll
